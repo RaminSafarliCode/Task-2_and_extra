@@ -1,0 +1,17 @@
+﻿program Number2
+
+READ a
+
+IF a >= 100 AND a < 1000 THEN
+	READ b
+	b = a * 1000 + a
+	PRINT b
+END IF
+
+ELSE
+	PRINT "Invalid number!"
+	
+	RETURN
+END ELSE
+
+END

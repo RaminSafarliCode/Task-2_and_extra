@@ -1,0 +1,3 @@
+﻿1. 
+4 reqemli eded verilib.Bu ededin evveline 7 reqemini , axirinada 8 reqemini artir. 
+Example1: 333 = 73338

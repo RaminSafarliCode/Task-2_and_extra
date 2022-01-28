@@ -1,0 +1,21 @@
+﻿program Number3
+
+READ a 
+
+IF a >= 10000 AND a < 100000 THEN
+	READ b
+	READ c
+
+	b = a * 0.18
+	PRINT b
+	c = a * 0.03
+	PRINT c
+END IF
+
+ELSE
+	PRINT "Invalid Number!"
+
+	RETURN
+END ELSE
+
+END
